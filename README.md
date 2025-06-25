@@ -2,17 +2,18 @@
   
 ![](https://komarev.com/ghpvc/?username=Beeramnarayana&color=brightgreen)
 
-
 <h1 align="center">Hi 👋, I'm Narayana</h1>
 
-<h3 align="center">A passionate Full stck developer 🖥️ , Data structure Algorithm enthusiatic , problem solver</h3>
+<h3 align="center">A passionate Full Stack Developer 🖥️ | DSA Enthusiast | Problem Solver ⚡</h3>
 
+---
 
-- 🌱 Currently learning React Native
-- 🤝 Looking for open-source organizations
-- 👨‍💻 Interested in Front-End Development, React Native, and Data Structures & Algorithms (DSA)
-- 📫 Reach me at beeramnarayana1@gmail.com
-- 🔭 Currently a final-year student at VIIT
+- 🌱 Currently learning **React Native**
+- 🔭 Final-year student at **Vignan Institute of Information Technology (VIIT)**
+- 👨‍💻 Interested in **Front-End Development**, **React Native**, and **Data Structures & Algorithms (DSA)**
+- 🤝 Actively looking to contribute to **open-source organizations**
+- 📫 Reach me at **beeramnarayana1@gmail.com**
+
  
 ## 🌐 Socials:
 
